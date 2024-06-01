@@ -3,7 +3,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/trindadej44/prompts-recipe-to-create-a-ebook/blob/main/output/Apresenta%C3%A7%C3%A3o.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -19,7 +19,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Prompt                                                                                                            |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Gere um ebook sobre o tema 'Desenvolvimento de Jogos: Da Ideia à Realidade Virtual'. Explore os conceitos fundamentais de programação aplicados na criação de jogos, desde o design de jogabilidade até a implementação de gráficos avançados. Inclua exemplos práticos, dicas de desenvolvimento e insights sobre as tecnologias emergentes no campo dos jogos, como realidade virtual e realidade aumentada. Apresente casos de estudo inspiradores e desafios para os leitores aplicarem seus conhecimentos. Este ebook é destinado a aspirantes a desenvolvedores de jogos e entusiastas de tecnologia interessados em mergulhar no emocionante mundo da criação de jogos.|
 
 
 Midjourney：
